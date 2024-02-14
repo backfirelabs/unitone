@@ -1,0 +1,16 @@
+-The site is running on github pages
+-The site contains an index.html page in the base directory to serve as the homepage
+-A new page on the site is created for the Unit 1 Project
+-A link to the Unit 1 Project page is created on the index page in the base directory
+-A JavaScript file that demonstrates the competencies for this project is created and used on the Unit 1 Page
+
+Competencies
+
+Control/loops
+	_/3 : Create at least one loop
+DOM Elements
+	_/3 : Add or modify at least one element on the page using JS methods
+Events
+	_/3 : Add at least one event listener for an event other than DOMContentLoaded, and utilizes a function expression or arrow function
+Input/Output
+	_/3 : Create at least one variable that gets data from the user and affects the output of the program in some way

@@ -1,0 +1,88 @@
+/* Nav Bar */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04aa6d;
+}
+
+/* Facts Page [Home Page]*/
+.factone {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+  background-color: #f2f2f2;
+}
+.facttwo {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+  background-color: #f2f2f2;
+}
+.factthree {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+  background-color: #f2f2f2;
+}
+.factfour {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+  background-color: #f2f2f2;
+}
+.factfive {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+  background-color: #f2f2f2;
+}
+
+/* Footer */
+.footer {
+  /* Adjust padding/margin as needed */
+  padding: 20px;
+  background-color: #f3f3f3;
+  text-align: center;
+}
+
+/* Project Page Content */
+.name,.enter, h1 {
+  text-align: center;
+}
+.button {
+  display: flex;
+  justify-content: center; /* Aligns horizontally */
+  align-items: center; /* Aligns vertically */
+}
+.text {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
